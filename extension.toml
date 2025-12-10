@@ -1,0 +1,7 @@
+id = "orng"
+name = "orng"
+schema_version = 1
+version = "0.0.1"
+authors = ["Matt Silverlock <orng-zed@questionable.services>"]
+description = "A set of Cloudflare themes for Zed"
+repository = "https://github.com/elithrar/orng-zed"
