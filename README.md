@@ -2,11 +2,15 @@
 
 [![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%23084CCF)](https://zed.dev/extensions/orng-theme)
 
-`orng` is a Cloudflare-inspired set of themes (dark + light) for the [Zed](https://zed.dev/) text editor.
+`orng` is a Cloudflare-inspired set of themes (dark + light) for the [Zed](https://zed.dev/) text editor and based on the color scheme used @ [workers.dev](https://workers.dev/).
 
 ## What does it look like?
 
+### Dark mode
+
 ![Dark mode](images/dark_mode.png)
+
+### Light mode
 
 ![Light mode](images/light_mode.png)
 
